@@ -1,0 +1,49 @@
+{
+	"name": "tns-core-modules",
+	"description": "Telerik NativeScript Core Modules",
+	"version": "3.1.0",
+	"homepage": "https://www.nativescript.org",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/NativeScript/NativeScript/commit/786f5c5e2052e34f5b68cbee35d242a436c8e712"
+	},
+	"files": [
+		"**/*.d.ts",
+		"**/*.js",
+		"!android17.d.ts",
+		"!ios.d.ts",
+		"!bin/",
+		"!apps/",
+		"!build/",
+		"!node-tests/",
+		"!declarations.android.d.ts",
+		"!declarations.ios.d.ts",
+		"!gruntfile.js",
+		"!org.nativescript.widgets.d.ts"
+	],
+	"license": "Apache-2.0",
+	"typings": "tns-core-modules.d.ts",
+	"dependencies": {
+		"tns-core-modules-widgets": "3.1.0"
+	},
+	"devDependencies": {
+		"@types/node": "~7.0.5",
+		"tns-platform-declarations": "*"
+	},
+	"nativescript": {
+		"platforms": {
+			"ios": "3.0.0",
+			"android": "3.0.0"
+		}
+	},
+	"snapshot": {
+		"android": {
+			"tns-java-classes": {
+				"modules": [
+					"ui/frame/activity",
+					"ui/frame/fragment"
+				]
+			}
+		}
+	}
+}

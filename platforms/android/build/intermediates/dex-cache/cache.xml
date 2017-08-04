@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_2e8bc044a1c91cd51918b39b3438caf6d5232395.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-26.0.0-alpha1_7716b98edc8c342b2e56b1b6c75122aa315a28f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-26.0.0-alpha1_47cf5960a5af85943ba31158c6bbfcb3808510df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ablankzin/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.android/android-agent/5.13.0/26388f620620cef86515514d1214bbaac18e7095/android-agent-5.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="26388f620620cef86515514d1214bbaac18e7095">
+        <dex dex="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/pre-dexed/F0/debug/android-agent-5.13.0_7c71f715be431ae7d015730ecfc9016254634b44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-26.0.0-alpha1_7111e8b74aec97dfa8e093bc05872d955f5c6f07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-26.0.0-alpha1_b21dcca16016863524fc83cdd442511671efdf33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/exploded-aar/TestNewRelic/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_fad9bc8d4649ebc32df54afc91c35bf76303f7a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-26.0.0-alpha1_9f1b1c331dfbd0445b4fc1bd8ff7d90b83bb5a79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-26.0.0-alpha1_be7e797ac57a884b206bd02a030f5d5358276dd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/exploded-aar/TestNewRelic/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="30b97ea5d6274e02330dcc69943087778363c172">
+        <dex dex="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/pre-dexed/F0/debug/TestNewRelic-runtime-unspecified_4888bb2752c1e0d32155efd984940d7be9b421dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_4b2d4bf2be0dbf432e93bd87f5b8218355b59048.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_9ce63a763933eeeea60cf25d6de286e1468f293d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-26.0.0-alpha1_8d99770b96cd20885cc2eaa84c5d0c272e4c9c6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ablankzin/Android/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-26.0.0-alpha1_b0549db03611bc40ef9911125438c228867b0aca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_6564666d4bd7b1cea8e606b127961ca75ac03331.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-26.0.0-alpha1_aab8a205fbc22f28718a30213f48704bf985b60f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-26.0.0-alpha1_3d9d7d9a92faf1bcfb8f2df4dcc7a14d80e5f700.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/res/merged/F0/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/res/merged/F0/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    }
+]

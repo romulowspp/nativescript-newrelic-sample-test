@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/res/merged/F0/debug/drawable-hdpi/icon.png",
+        "source": "/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/res/merged/F0/debug/drawable-hdpi/favorites.png",
+        "source": "/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/src/main/res/drawable-hdpi/favorites.png"
+    },
+    {
+        "merged": "/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/res/merged/F0/debug/drawable-hdpi/background.png",
+        "source": "/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/src/main/res/drawable-hdpi/background.png"
+    },
+    {
+        "merged": "/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/res/merged/F0/debug/drawable-hdpi/search.png",
+        "source": "/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/src/main/res/drawable-hdpi/search.png"
+    },
+    {
+        "merged": "/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/res/merged/F0/debug/drawable-hdpi/logo.png",
+        "source": "/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/res/merged/F0/debug/drawable-hdpi/settings.png",
+        "source": "/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/src/main/res/drawable-hdpi/settings.png"
+    },
+    {
+        "merged": "/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/res/merged/F0/debug/drawable-hdpi/home.png",
+        "source": "/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/src/main/res/drawable-hdpi/home.png"
+    },
+    {
+        "merged": "/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/build/intermediates/res/merged/F0/debug/drawable-hdpi/browse.png",
+        "source": "/home/ablankzin/Área de Trabalho/testApp/TestNewRelic/platforms/android/src/main/res/drawable-hdpi/browse.png"
+    }
+]
